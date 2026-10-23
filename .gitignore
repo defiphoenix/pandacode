@@ -4,7 +4,6 @@ dist/
 src-tauri/target/
 src-tauri/gen/
 .DS_Store
-.env*
 !.env.example
 test-results/
 playwright-report/
@@ -18,3 +17,8 @@ website/.astro/
 *.p8
 *.key
 *.pem
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
